@@ -2,7 +2,7 @@
 
 ##  Abstract
 
-**PhishGen-X** is a cybersecurity project designed to simulate and detect phishing emails using modern NLP techniques. It uniquely integrates **GPT-2** to generate realistic multi-tone phishing emails and **BERT** for classifying them, enriched with **explainability using SHAP**. The project supports adversarial email simulation, psychological tactic tagging, and visual diagnostics, making it ideal for AI-driven phishing detection research and SOC analyst training tools.
+**PhishGen-X** is a cybersecurity project designed to simulate and detect phishing emails using modern NLP techniques. It uniquely integrates **GPT-2** to generate realistic multi-tone phishing emails and train **BERT** for classifying them, enriched with **explainability using SHAP**. The project supports adversarial email simulation, psychological tactic tagging, and visual diagnostics, making it ideal for AI-driven phishing detection research and SOC analyst training tools.
 
 ---
 
